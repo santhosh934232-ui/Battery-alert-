@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battery Alert</string>
+    <string name="battery_checking">--%</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="charging">Charging</string>
+    <string name="on_battery">On battery</string>
+    <string name="monitor_label">Monitor battery</string>
+    <string name="status_on">Monitoring is on. The alert plays once at %1$d%% or below.</string>
+    <string name="status_off">Monitoring is off.</string>
+    <string name="threshold_title">Alert when battery reaches</string>
+    <string name="custom">Custom</string>
+    <string name="custom_hint">Custom percentage (1 to 99)</string>
+    <string name="custom_error">Enter a number from 1 to 99</string>
+    <string name="sound_title">Alert sound</string>
+    <string name="choose_sound">Choose alert sound</string>
+    <string name="choose">Choose</string>
+    <string name="test">Test</string>
+    <string name="default_sound">Default alarm</string>
+    <string name="picker_unavailable">Sound picker is not available on this device</string>
+    <string name="duration_title">Sound duration</string>
+    <string name="seconds_5">5 seconds</string>
+    <string name="seconds_10">10 seconds</string>
+    <string name="start_failed">Could not start monitoring. Please try again.</string>
+    <string name="settings_unavailable">Settings screen is not available on this device</string>
+    <string name="optimization_title">Keep it running (OPPO and others)</string>
+    <string name="optimization_hint">Some phones stop background apps. Allow this app to ignore battery optimization, then in Settings open Battery and allow background activity and auto-launch for Battery Alert.</string>
+    <string name="optimization_button">Ignore battery optimization</string>
+    <string name="optimization_done">Battery optimization is off</string>
+    <string name="app_settings">App settings</string>
+    <string name="ongoing_title">Battery Alert is monitoring</string>
+    <string name="ongoing_text">Alert at %1$d%%</string>
+    <string name="ongoing_text_with_level">Alert at %1$d%%. Battery is %2$d%%.</string>
+    <string name="alert_title">Battery is low</string>
+    <string name="alert_text">Battery is at %1$d%%. Plug in your charger.</string>
+    <string name="alert_dismiss">Stop sound</string>
+    <string name="channel_monitor">Monitoring status</string>
+    <string name="channel_alert">Low battery alert</string>
+</resources>
